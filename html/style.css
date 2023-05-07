@@ -1,0 +1,18 @@
+
+body{
+    background-color: darkgrey;  
+    }
+
+but {
+    background-color: #4CAF50; /* cor de fundo do botão */
+    color: white; /* cor do texto */
+    border: none; /* sem borda */
+    padding: 10px 20px; /* espaçamento interno do botão */
+    text-align: center; /* centraliza o texto dentro do botão */
+    display: inline-block; /* exibe o botão como um bloco */
+    font-size: 16px; /* tamanho da fonte */
+    cursor: pointer; /* transforma o ponteiro do mouse em uma mão */
+    width: 50; /* largura do botão */
+    height: 20px; /* altura do botão */
+    border-radius: 5px; /* borda arredondada */
+    }
